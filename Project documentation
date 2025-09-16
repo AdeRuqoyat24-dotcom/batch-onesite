@@ -1,0 +1,9 @@
+---
+
+## 🚀 Deployment Instructions
+
+### **GitHub Pages**
+1. Push your code to a GitHub repository.  
+2. Go to **Settings → Pages**.  
+3. Under **Branch**, select `main` and `/root`.  
+4. Your site will be live at:
